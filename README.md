@@ -13,4 +13,4 @@
 - Open for internships as well.
 
 #### Contact Me:
-[![telegram-link](teleQR.jpeg)](https://t.me/paper091)
+[![telegram-link](teleQR.jpeg = 50)](https://t.me/paper091)
