@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi 👋, I'm paper
 
-<!--
-**paper091/paper091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A backend enthusiast trying to get into web 3.0 development. I'm familiar with Solidity and blockchain basics. Looking forward to decentralised world.
+  
+#### What I've sone so far:
+- Made a bi-directional full-duplex web-chat application using Bootstrap and Socket.io.
+- Made a telegram bot that helps with time zone conversion using telegram-bot-api and Heroku app hosting.
+- Made a python bot that notifies the user with the International Space Station's current Location using iss-notifier-api, twilio messaging service and heroku's hosting.
 
-Here are some ideas to get you started:
+#### What I'm doing:
+- Learned Blockchain basics and Solidity.
+- Open for opportunities with web 3.0 development.
+- Open for internships as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact Me:
+[![telegram-link](teleQR = 10x10)](https://t.me/paper091)
