@@ -13,4 +13,5 @@
 - Open for internships as well.
 
 #### Contact Me:
+<a href="https://t.me/paper091">
 <img src="teleQR.jpeg" alt="telegram QR" width="25%" height="25%" />
