@@ -13,4 +13,4 @@
 - Open for internships as well.
 
 #### Contact Me:
-<img src="teleQR.jpeg" alt="telegram QR" width="50%" height="50%" />
+<img src="teleQR.jpeg" alt="telegram QR" width="25%" height="25%" />
